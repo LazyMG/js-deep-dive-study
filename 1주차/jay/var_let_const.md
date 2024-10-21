@@ -1,3 +1,6 @@
+> 이미지 url 참조가 제대로 되지 않아서, 전체 본문은 [블로그 포스트](https://jaygo-dev.tistory.com/1)에서 확인하실 수 있습니다.
+--- 
+
 # var, let, const의 차이: var 사용을 지양해야 하는 이유
 
 JavaScript의 변수 선언자는 `var`, `let`, `const` 세 가지다. 그중 `var`는 JavaScript 초기부터 사용된 방식이고, `let`과 `const`는 2015년 발표된 ES6를 통해 추가된 문법이다. 모든 기술이 그렇지만, 후에 나온 기술은 기존 기술의 한계를 보완하기 위해 등장하는 게 일반적이다. `let`과 `const` 역시 `var`가 가진 한계를 극복하기 위해 추가됐고, 그렇다 보니 개발할 때 `var`가 아닌 `let`과 `const` 사용이 권장된다.
