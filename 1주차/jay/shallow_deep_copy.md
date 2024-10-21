@@ -1,3 +1,6 @@
+> 이미지 url 참조가 제대로 되지 않아서, 전체 본문은 [블로그 포스트](https://jaygo-dev.tistory.com/4)에서 확인하실 수 있습니다.
+
+---
 
 # **얕은 복사(Shallow Copy)와 깊은 복사(Deep Copy)**
 
